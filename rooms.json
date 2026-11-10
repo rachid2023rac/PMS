@@ -1,0 +1,17 @@
+[
+  {
+    "number": "101",
+    "status": "occupied",
+    "type": "single",
+    "price": 100,
+    "reservationId": "RES-5678",
+    "pin": "5678",
+    "full_name": "El Mamouni Rachid",
+    "arrivalDate": "2026-11-06T15:00:00Z",
+    "departureDate": "2026-11-08T11:00:00Z",
+    "paymentStatus": "paid",
+    "paymentLink": "https://hotel-casablanca.com/pay/link-xyz5678",
+    "isConfirmedByPMS": true,
+    "user_id": "RES-5678"
+  }
+]
