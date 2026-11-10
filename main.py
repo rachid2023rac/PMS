@@ -13,6 +13,7 @@ logger.info("Starting Hotel Check-in System")
 st.title("Hotel Check-in System")
 
 # --- INITIALISATION DE LA SESSION STREAMLIT ---
+# --- INITIALISATION DE LA SESSION STREAMLIT --- /CLOUD
 if "messages" not in st.session_state:
     st.session_state.messages = []
 if "id_data" not in st.session_state:
